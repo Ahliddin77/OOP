@@ -1,0 +1,5 @@
+﻿  Fraction.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\ahlid\OneDrive\Ishchi stol\Fraction\Source.cpp(90): warning C4715: 'Fraction::isGreater': not all control paths return a value
+  Fraction.vcxproj -> C:\Users\ahlid\OneDrive\Ishchi stol\Fraction\x64\Debug\Fraction.exe

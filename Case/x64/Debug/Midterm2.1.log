@@ -1,0 +1,5 @@
+﻿  Midterm2.1.cpp
+C:\Users\ahlid\OneDrive\Ishchi stol\New folder\Midterm2.1\Case.h(145,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahlid\OneDrive\Ishchi stol\New folder\Midterm2.1\Repo.h(65,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahlid\OneDrive\Ishchi stol\New folder\Midterm2.1\Repo.h(66,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Midterm2.1.vcxproj -> C:\Users\ahlid\OneDrive\Ishchi stol\New folder\Midterm2.1\x64\Debug\Midterm2.1.exe

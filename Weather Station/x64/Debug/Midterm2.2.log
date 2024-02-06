@@ -1,0 +1,3 @@
+﻿  Midterm2.2.cpp
+C:\Users\ahlid\OneDrive\Ishchi stol\New folder\Midterm2.2\Midterm2.2.cpp(12,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  Midterm2.2.vcxproj -> C:\Users\ahlid\OneDrive\Ishchi stol\New folder\Midterm2.2\x64\Debug\Midterm2.2.exe

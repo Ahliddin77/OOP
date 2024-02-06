@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+  Source.cpp
+C:\Users\ahlid\OneDrive\Ishchi stol\OOP\ConsoleApplication1\Source.cpp(125,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\ahlid\OneDrive\Ishchi stol\OOP\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,4 @@
+﻿  lec12.1.cpp
+C:\Users\ahlid\OneDrive\Ishchi stol\New folder\lec12.1\Box.h(149,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahlid\OneDrive\Ishchi stol\New folder\lec12.1\Box.h(179,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  lec12.1.vcxproj -> C:\Users\ahlid\OneDrive\Ishchi stol\New folder\lec12.1\x64\Debug\lec12.1.exe

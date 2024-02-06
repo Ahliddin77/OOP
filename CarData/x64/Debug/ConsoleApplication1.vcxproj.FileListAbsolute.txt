@@ -1,0 +1,2 @@
+C:\Users\ahlid\OneDrive\Ishchi stol\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\ahlid\OneDrive\Ishchi stol\OOP\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

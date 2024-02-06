@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ahlid\OneDrive\Ishchi stol\Array\Source.cpp(103,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahlid\OneDrive\Ishchi stol\Array\Source.cpp(118,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Array.vcxproj -> C:\Users\ahlid\OneDrive\Ishchi stol\Array\x64\Debug\Array.exe
